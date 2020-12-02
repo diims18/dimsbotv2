@@ -13,7 +13,7 @@ const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
 const BotName = 'Dims Bot 🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/bintang_nur_pradana'; // Nama Instagramlu cok
+const instagramlu = 'https://instagram.com/diims_18'; // Nama Instagramlu cok
 const whatsapplu = 'wa.me/628888394952'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
 const grupch1 = ''; // 
